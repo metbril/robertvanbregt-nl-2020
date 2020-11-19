@@ -10,4 +10,4 @@ TZ = "Europe/Amsterdam"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.78.2"
-HUGO_ENV = "development"
+command = "hugo -b $DEPLOY_URL"
