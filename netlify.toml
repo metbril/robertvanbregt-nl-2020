@@ -7,3 +7,7 @@ HUGO_ENV = "production"
 HUGO_VERSION = "0.78.2"
 HUGO_ENABLEGITINFO = "true"
 TZ = "Europe/Amsterdam"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.78.2"
+HUGO_ENV = "development"
