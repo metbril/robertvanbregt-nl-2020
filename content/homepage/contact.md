@@ -10,4 +10,6 @@ header_menu: true
 
 {{<icon class="fa fa-twitter">}}&nbsp;[@robertvanbregt](https://twitter.com/robertvanbregt)
 
+{{<icon class="fa fa-calendar">}}&nbsp;[Direct afspreken?](/afspreken)
+
 Laten we contact zoeken!
