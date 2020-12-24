@@ -15,10 +15,17 @@ header_menu: true
 Laten we contact zoeken!
 
 [{{<icon class="fa fa-github">}}](https://github.com/metbril)
+&nbsp;
 [{{<icon class="fa fa-gitlab">}}](https://gitlab.com/metbril)
+&nbsp;
 [{{<icon class="fa fa-medium">}}](https://medium.com/@metbril)
+&nbsp;
 [{{<icon class="fa fa-get-pocket">}}](https://getpocket.com/@metbril)
+&nbsp;
 [{{<icon class="fa fa-skype">}}](skype://robertvanbregt)
+&nbsp;
 [{{<icon class="fa fa-trello">}}](https://trello.com/metbril)
+&nbsp;
 [{{<icon class="fa fa-address-card">}}](/assets/robertvanbregt.vcf)
+&nbsp;
 [{{<icon class="fa fa-key">}}](/assets/robertvanbregt-protonmail-com-public.asc)
