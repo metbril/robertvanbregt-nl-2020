@@ -35,7 +35,7 @@ title = "Robert van Bregt - Projectmanager ❤️ Digitale Zorg"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
-    hidedesignbyline = false
+    hidedesignbyline = true
 
     [params.meta]
         keywords = "projectmanager, projectleider, projectmanagement, ziekenhuis, zorg, rotterdam, ict"
