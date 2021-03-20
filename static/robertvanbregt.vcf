@@ -3,12 +3,10 @@ VERSION:3.0
 PRODID:-//Apple Inc.//Mac OS X 10.15.7//EN
 N:van Bregt;Robert;;;
 FN:Robert van Bregt
-EMAIL;type=INTERNET;type=HOME;type=pref:mail@robertvanbregt.nl
-item1.EMAIL;type=INTERNET:robertvanbregt@protonmail.com
-item1.X-ABLabel:_$!<Other>!$_
+EMAIL;type=INTERNET;type=HOME;type=pref:contact@robertvanbregt.nl
 ADR;type=HOME;type=pref:;;;Capelle aan den IJssel;Zuid-Holland;;Nederland
-item2.URL;type=pref:https://www.robertvanbregt.nl/
-item2.X-ABLabel:_$!<HomePage>!$_
+item1.URL;type=pref:https://www.robertvanbregt.nl/
+item1.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QQERXhpZgAATU0AKgAA
  AAgACQEPAAIAAAAGAAAAegEQAAIAAAAKAAAAgAESAAMAAAABAAEAAAEaAAUAAAABAAAAigEbAA
  UAAAABAAAAkgEoAAMAAAABAAIAAAExAAIAAAAFAAAAmgEyAAIAAAAUAAAAoIdpAAQAAAABAAAA
