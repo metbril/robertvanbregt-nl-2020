@@ -28,7 +28,7 @@ Als experiment kun je ook [direct afspreken][afspreken] voor een privé-afspraak
 
 ### Alle opties op een rij
 
-{{<icon class="fa fa-envelope fa-fw">}} [mail@robertvanbregt.nl][email]
+{{<icon class="fa fa-envelope fa-fw">}} [contact@robertvanbregt.nl][email]
 
 {{<icon class="fa fa-key fa-fw">}} [Protonmail PGP sleutel][key]
 
