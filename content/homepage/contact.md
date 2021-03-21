@@ -40,27 +40,13 @@ Als experiment kun je ook [direct afspreken][afspreken] voor een privé-afspraak
 
 {{<icon class="fa fa-address-card fa-fw">}} [Visitekaartje][vcf]
 
-### Waar je Robert elders kunt vinden
-
-[{{<icon class="fa fa-github fa-lg">}}](https://github.com/metbril)
-&bullet;
-[{{<icon class="fa fa-gitlab fa-lg">}}](https://gitlab.com/metbril)
-&bullet;
-[{{<icon class="fa fa-medium fa-lg">}}](https://medium.com/@metbril)
-&bullet;
-[{{<icon class="fa fa-get-pocket fa-lg">}}](https://getpocket.com/@metbril)
-&bullet;
-[{{<icon class="fa fa-skype fa-lg">}}](skype://robertvanbregt)
-&bullet;
-[{{<icon class="fa fa-trello fa-lg">}}](https://trello.com/metbril)
-
+[afspreken]: https://robertvanbregt.nl/afspreken
+[email]: mailto:contact@robertvanbregt.nl
+[fix]: https://www.fixjeprivacy.nl/tip/ruil-whatsapp-in-voor-een-privacyvriendelijk-alternatief/
+[key]: https://robertvanbregt.nl/protonkey.asc
+[linkedin]: https://linkedin.com/in/robertvanbregt
 [pgp]: https://nl.wikipedia.org/wiki/Pretty_Good_Privacy
 [protonmail]: https://protonmail.com/nl/
-[key]: https://robertvanbregt.nl/protonkey.asc
 [signal]: https://signal.org/nl/
 [twitter]: https://twitter.com/robertvanbregt
-[email]: mailto:contact@robertvanbregt.nl
-[linkedin]: https://linkedin.com/in/robertvanbregt
-[afspreken]: https://robertvanbregt.nl/afspreken
 [vcf]: https://robertvanbregt.nl/robertvanbregt.vcf
-[fix]: https://www.fixjeprivacy.nl/tip/ruil-whatsapp-in-voor-een-privacyvriendelijk-alternatief/
