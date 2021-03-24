@@ -4,21 +4,23 @@ weight: 4
 header_menu: true
 ---
 
-Leuk dat je contact met mij wilt opnemen. Hieronder lees je hoe je dat het best kunt doen.
+Leuk dat je contact met me wilt opnemen. Hieronder lees je hoe je dat het best kunt doen.
 
 ### {{<icon class="fa fa-envelope">}} &nbsp; E-mail
 
-Mijn voorkeursmethode om contact te leggen is [per e-mail][email].
+Mijn voorkeursmethode om contact te houden is [e-mail][email]. Ouderwets, maar eenvoudig en het werkt eigenlijk altijd. Maar niet geschikt voor vertrouwelijke informatie.
 
-Vertrouwelijke berichten kun je **met [PGP][pgp] versleuteld** via [ProtonMail.com][protonmail] een sturen naar **MIJNNAAMAANELKAAR@protonmail.com**. Heb je daar nog geen adres, dan kun je dat eerst eenvoudig zelf maken. Gebruik je PGP zonder PGP, dan kun je hier mijn [publieke sleutel voor mijn Protonmail-adres][key] vinden.
+Vertrouwelijke berichten of persoonlijke gegevens kun je sturen naar **MIJNNAAMAANELKAAR@protonmail.com** vanaf jouw eigen account bij [ProtonMail.com][protonmail]. Gebruik je [PGP][pgp] zonder ProtonMail, dan kun je hier mijn [publieke sleutel voor mijn Protonmail-adres][key] vinden.
 
 ### {{<icon class="fa fa-commenting">}} &nbsp; Tekstberichten
 
-Voor korte of dringende berichten gebruik ik het liefst [Signal][signal]. Dat is een [privacy-vriendelijk alternatief voor WhatsApp][fix]. 
+Voor korte of dringende berichten gebruik ik het liefst de [Signal][signal] berichtenapp. Dat is een [privacy-vriendelijk alternatief voor WhatsApp][fix]. 
 
-Een alternatief is iMessage van Apple. Stuur je bericht naar **MIJNNAAMAANELKAAR@icloud.com**
+Oh ja, SMS'en kan natuurlijk ook.
 
-Heb je mijn mobiele telefoonnummer niet, dan kun je een DM sturen via [Twitter][twitter].
+Een alternatief voor Apple-gebruikers is iMessage. Stuur je bericht naar **MIJNNAAMAANELKAAR@icloud.com**.
+
+Kan bovenstaande niet, dan kun je een DM sturen via [Twitter][twitter].
 
 ### {{<icon class="fa fa-building">}} &nbsp; Zakelijk contact
 
