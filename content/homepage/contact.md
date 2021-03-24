@@ -6,23 +6,25 @@ header_menu: true
 
 Leuk dat je contact met mij wilt opnemen. Hieronder lees je hoe je dat het best kunt doen.
 
-### {{<icon class="fa fa-envelope">}} E-mail
+### {{<icon class="fa fa-envelope">}} &nbsp; E-mail
 
 Mijn voorkeursmethode om contact te leggen is [per e-mail][email].
 
-Vertrouwelijke berichten kun je **met [PGP][pgp] versleuteld** via [ProtonMail.com][protonmail] een sturen naar `MIJNNAAMAANELKAAR@protonmail.com`. Heb je daar nog geen adres, dan kun je dat eerst eenvoudig zelf maken. Gebruik je zelf al PGP, dan kun je hier mijn [publieke sleutel voor mijn Protonmail-adres][key] vinden.
+Vertrouwelijke berichten kun je **met [PGP][pgp] versleuteld** via [ProtonMail.com][protonmail] een sturen naar **MIJNNAAMAANELKAAR@protonmail.com**. Heb je daar nog geen adres, dan kun je dat eerst eenvoudig zelf maken. Gebruik je PGP zonder PGP, dan kun je hier mijn [publieke sleutel voor mijn Protonmail-adres][key] vinden.
 
-### {{<icon class="fa fa-commenting">}} Tekstberichten
+### {{<icon class="fa fa-commenting">}} &nbsp; Tekstberichten
 
-Voor korte of dringende berichten gebruik ik het lieft [Signal][signal]. Dat is een [privacy-vriendelijk alternatief voor WhatsApp][fix]. Een alternatief is iMessage van Apple, en SMS werkt ook altijd.
+Voor korte of dringende berichten gebruik ik het liefst [Signal][signal]. Dat is een [privacy-vriendelijk alternatief voor WhatsApp][fix]. 
+
+Een alternatief is iMessage van Apple. Stuur je bericht naar **MIJNNAAMAANELKAAR@icloud.com**
 
 Heb je mijn mobiele telefoonnummer niet, dan kun je een DM sturen via [Twitter][twitter].
 
-### {{<icon class="fa fa-building">}} Zakelijk contact
+### {{<icon class="fa fa-building">}} &nbsp; Zakelijk contact
 
 Voor alle zakelijk contact kun je contact opnemen via [LinkedIn][linkedin].
 
-### {{<icon class="fa fa-calendar">}} Direct afspreken
+### {{<icon class="fa fa-calendar">}} &nbsp; Direct afspreken
 
 Als experiment kun je ook [direct afspreken][afspreken] voor een privé-afspraak. Voor zakelijke afspraken kun je contact zoeken via [LinkedIn][linkedin].
 
