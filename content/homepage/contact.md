@@ -18,7 +18,7 @@ Voor korte of dringende berichten gebruik ik het liefst de [Signal][signal] beri
 
 Oh ja, SMS'en kan natuurlijk ook.
 
-Een alternatief voor Apple-gebruikers is iMessage. Stuur je bericht naar **MIJNNAAMAANELKAAR@icloud.com**.
+Een alternatief voor Apple-gebruikers is iMessage. Stuur je bericht naar **[MIJNNAAMAANELKAAR@icloud.com](imessage://MIJNNAAMAANELKAAR@icloud.com)**.
 
 Kan bovenstaande niet, dan kun je een DM sturen via [Twitter][twitter].
 
