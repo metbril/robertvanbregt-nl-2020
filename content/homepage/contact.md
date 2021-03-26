@@ -32,17 +32,17 @@ Als experiment kun je ook [direct afspreken][afspreken] voor een privé-afspraak
 
 ### Alle opties op een rij
 
-{{<icon class="fa fa-envelope fa-fw">}} [contact@robertvanbregt.nl][email]
+{{<icon class="fa fa-envelope fa-fw">}} &nbsp; [contact@robertvanbregt.nl][email]
 
-{{<icon class="fa fa-key fa-fw">}} [Protonmail PGP sleutel][key]
+{{<icon class="fa fa-key fa-fw">}} &nbsp; [Protonmail PGP sleutel][key]
 
-{{<icon class="fa fa-twitter fa-fw">}} [@robertvanbregt][twitter]
+{{<icon class="fa fa-twitter fa-fw">}} &nbsp; [@robertvanbregt][twitter]
 
-{{<icon class="fa fa-linkedin fa-fw">}} [/robertvanbregt][linkedin]
+{{<icon class="fa fa-linkedin fa-fw">}} &nbsp; [/robertvanbregt][linkedin]
 
-{{<icon class="fa fa-calendar fa-fw">}} [Direct afspreken!][afspreken]
+{{<icon class="fa fa-calendar fa-fw">}} &nbsp; [Direct afspreken!][afspreken]
 
-{{<icon class="fa fa-address-card fa-fw">}} [Visitekaartje][vcf]
+{{<icon class="fa fa-address-card fa-fw">}} &nbsp; [Visitekaartje][vcf]
 
 [afspreken]: https://robertvanbregt.nl/afspreken
 [email]: mailto:contact@robertvanbregt.nl
