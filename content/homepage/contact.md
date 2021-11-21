@@ -34,17 +34,14 @@ Als experiment kun je ook [direct afspreken][afspreken] voor een privé-afspraak
 
 {{<icon class="fa fa-envelope fa-fw">}} &nbsp; [contact@robertvanbregt.nl][email]
 
-{{<icon class="fa fa-key fa-fw">}} &nbsp; [Protonmail PGP sleutel][key]
+{{<icon class="fa fa-linkedin fa-fw">}} &nbsp; [/robertvanbregt][linkedin]
 
 {{<icon class="fa fa-twitter fa-fw">}} &nbsp; [@robertvanbregt][twitter]
 
-{{<icon class="fa fa-linkedin fa-fw">}} &nbsp; [/robertvanbregt][linkedin]
-
-{{<icon class="fa fa-calendar fa-fw">}} &nbsp; [Direct afspreken!][afspreken]
+{{<icon class="fa fa-key fa-fw">}} &nbsp; [Protonmail PGP sleutel][key]
 
 {{<icon class="fa fa-address-card fa-fw">}} &nbsp; [Visitekaartje][vcf]
 
-[afspreken]: /afspreken
 [email]: mailto:contact@robertvanbregt.nl
 [fix]: https://www.fixjeprivacy.nl/tip/ruil-whatsapp-in-voor-een-privacyvriendelijk-alternatief/
 [key]: /protonkey.asc
