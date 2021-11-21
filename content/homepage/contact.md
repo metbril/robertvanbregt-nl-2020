@@ -44,13 +44,13 @@ Als experiment kun je ook [direct afspreken][afspreken] voor een privé-afspraak
 
 {{<icon class="fa fa-address-card fa-fw">}} &nbsp; [Visitekaartje][vcf]
 
-[afspreken]: https://robertvanbregt.nl/afspreken
+[afspreken]: /afspreken
 [email]: mailto:contact@robertvanbregt.nl
 [fix]: https://www.fixjeprivacy.nl/tip/ruil-whatsapp-in-voor-een-privacyvriendelijk-alternatief/
-[key]: https://robertvanbregt.nl/protonkey.asc
+[key]: /protonkey.asc
 [linkedin]: https://linkedin.com/in/robertvanbregt
 [pgp]: https://nl.wikipedia.org/wiki/Pretty_Good_Privacy
 [protonmail]: https://protonmail.com/nl/
 [signal]: https://signal.org/nl/
 [twitter]: https://twitter.com/robertvanbregt
-[vcf]: https://robertvanbregt.nl/robertvanbregt.vcf
+[vcf]: /robertvanbregt.vcf
